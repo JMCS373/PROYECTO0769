@@ -1,5 +1,6 @@
-import tkinter as tk
-from tkinter import ttk
+#LIBRERIAS 
+import tkinter as tk #LIBRERIA PARA INTERFAZ DE USUARIO
+from tkinter import ttk #...
 
 class Aplicacion:
 
